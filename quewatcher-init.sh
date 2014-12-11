@@ -4,8 +4,8 @@ TIME_TO_DELETE=10
 MAILS_TO_ALARM=30
 MAILS_TO_DISABLE=1000
 
-#LOCAL_DOMAIN=sstu.ru
-SEND_ALARM_TO=mitrofanovaa@sstu.ru
+#LOCAL_DOMAIN=testdomain.com
+SEND_ALARM_TO=test@test.ru
 
 WORK_DIR=/etc/quewatcher
 WHITELIST_FILE=$WORK_DIR/whitelist
